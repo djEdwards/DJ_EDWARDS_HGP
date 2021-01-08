@@ -1,1 +1,2 @@
-# DJ_EDWARDS_HGP
+## Hidden Genius Project
+
